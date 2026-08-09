@@ -22,8 +22,8 @@ function Navbar() {
             </a>
           </li>
           <li className="navbar-link">
-            <a href="#aboutme" className="link">
-              About Me
+            <a href="#experience" className="link">
+              Experience
             </a>
           </li>
           <li className="navbar-link">

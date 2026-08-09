@@ -334,7 +334,7 @@ body {
 
 /************** About Me Section *******************/
 
-#aboutme {
+#experience {
   background-color: rgb(4, 4, 37);
   border-radius: 3rem;
   border: 1px solid rgb(63, 59, 59);
@@ -342,14 +342,14 @@ body {
   margin-top: 4rem;
 }
 
-.aboutme-header,
+.experience-header,
 .contact-header {
   font-size: 4.5rem;
   line-height: 0.9;
   letter-spacing: -1px;
 }
 
-.about-container {
+.experience-container {
   display: flex;
   align-items: center;
   gap: 2rem;
@@ -367,13 +367,13 @@ body {
   border-radius: 3rem;
 }
 
-.about-name {
-  font-size: 4rem;
+.experience-name {
+  font-size: 3rem;
   line-height: 0.9;
   letter-spacing: -1px;
 }
 
-.about-text {
+.experience-text {
   font-size: 2rem;
   letter-spacing: 1px;
   line-height: 1.2;
@@ -647,7 +647,7 @@ body {
     box-shadow: 1rem 1rem 1rem rgba(0, 0, 0, 0.3);
   }
 
-  .about-container {
+  .experience-container {
     display: flex;
     flex-direction: column;
     align-items: center;
