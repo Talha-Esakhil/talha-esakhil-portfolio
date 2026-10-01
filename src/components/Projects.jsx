@@ -23,24 +23,22 @@ function Projects() {
                 React, JavaScript, Tailwind CSS and React Router.
               </div>
               <div className="project-buttons">
-                <button className="btn project-btn">
-                  <a
-                    target="_blank"
-                    href="https://dash-minder.netlify.app"
-                    className="link"
-                  >
-                    Live Demo
-                  </a>
-                </button>
-                <button className="btn project-btn">
-                  <a
-                    target="_blank"
-                    href="https://github.com/Talha-Esakhil/dash-minder"
-                    className="link"
-                  >
-                    Github
-                  </a>
-                </button>
+                <a
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  href="https://dash-minder.netlify.app"
+                  className="link btn project-btn"
+                >
+                  Live Demo
+                </a>
+                <a
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  href="https://github.com/Talha-Esakhil/dash-minder"
+                  className="link btn project-btn"
+                >
+                  Github
+                </a>
               </div>
             </div>
           </div>
@@ -66,24 +64,22 @@ function Projects() {
                 localStorage.
               </div>
               <div className="project-buttons">
-                <button className="btn project-btn">
-                  <a
-                    target="_blank"
-                    href="https://snippet-scribe.netlify.app"
-                    className="link"
-                  >
-                    Live Demo
-                  </a>
-                </button>
-                <button className="btn project-btn">
-                  <a
-                    target="_blank"
-                    href="https://github.com/Talha-Esakhil/snippet-scribe"
-                    className="link"
-                  >
-                    Github
-                  </a>
-                </button>
+                <a
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  href="https://snippet-scribe.netlify.app"
+                  className="link btn project-btn"
+                >
+                  Live Demo
+                </a>
+                <a
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  href="https://github.com/Talha-Esakhil/snippet-scribe"
+                  className="link btn project-btn"
+                >
+                  Github
+                </a>
               </div>
             </div>
           </div>

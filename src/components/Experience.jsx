@@ -5,7 +5,7 @@ function Experience() {
       <div className="experience-container">
         <div className="experience-text__container">
           <h2 className="experience-name">Wadan Tech | 1 Year, 2 Months</h2>
-          <p className="experience-text">
+          <div className="experience-text">
             <ul>
               <li>
                 Developed responsive, high preformance web applications using
@@ -28,7 +28,7 @@ function Experience() {
                 development workflows.
               </li>
             </ul>
-          </p>
+          </div>
         </div>
       </div>
     </section>

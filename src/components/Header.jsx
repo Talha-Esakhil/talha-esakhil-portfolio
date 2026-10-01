@@ -4,13 +4,17 @@ function Header() {
       <div className="hero-container">
         <div className="hero__info">
           <div className="hero__info--top">
-            <h1 className="hero__name">Hi, I'm Talha Esakhil</h1>
-            <h3 className="hero__role">Frontend Developer</h3>
+            <h1 className="hero__name">
+              Frontend Developer building <br /> responsive, production minded{' '}
+              <br />
+              web applications.
+            </h1>
           </div>
           <div className="hero__info--bottom">
             <p className="hero__description">
-              Passionate about building modern, responsive Web Applications
-              using JavaScript, TypeScript, Tailwind CSS, and React.
+              I build interactive web applications with React, TypeScript and
+              modern frontend architecture, with a focus on usability
+              maintainalbility and performance.
             </p>
           </div>
           <div className="hero__action-btns">
@@ -22,6 +26,11 @@ function Header() {
             <button className="btn btn__contact-me">
               <a href="#contact" className="link">
                 Contact Me
+              </a>
+            </button>
+            <button className="btn btn__github">
+              <a href="https://www.github.com/talha-esakhil" className="link">
+                Github
               </a>
             </button>
           </div>
